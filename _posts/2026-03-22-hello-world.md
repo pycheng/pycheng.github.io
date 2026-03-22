@@ -1,6 +1,6 @@
 ---
 title: "Hello World"
-image: /_data/avatar.JPG
+image: _data/avatar.JPG
 author: pyc
 date: 2026-03-22 16:46:28 +0800
 categories: [Misc]
