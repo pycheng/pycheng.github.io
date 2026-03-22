@@ -120,10 +120,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: 'pycheng/pycheng.github.io-comments'
+    repo_id: "R_kgDORtiE6A"
+    category: "Announcements"
+    category_id: "DIC_kwDORtiE6M4C5AkW"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
