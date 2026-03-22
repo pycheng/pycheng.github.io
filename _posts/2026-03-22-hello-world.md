@@ -1,18 +1,20 @@
 ---
 title: "Hello World"
+image: /_data/avatar.JPG
 author: pyc
 date: 2026-03-22 16:46:28 +0800
 categories: [Misc]
 tags: [hello]
 ---
 
-# Hello World
+## Hello World
 In memory of M, who started it all, and in celebration of J, who continues the journey by my side.
 ![Avatar](https://raw.githubusercontent.com/pycheng/pycheng.github.io/main/_data/avatar.JPG)
 
-# Blog Setup & Workflow
+## Blog Setup & Workflow
 - [Writing a new post](https://chirpy.cotes.page/posts/write-a-new-post/)
 - [Enable Comments](https://www.nymanska.com/posts/Giscus-comments/)
+- [Favicon](https://tranglc.github.io/posts/customize-the-favicon/)
 
 <script src="https://giscus.app/client.js"
         data-repo="pycheng/pycheng.github.io-comments"
