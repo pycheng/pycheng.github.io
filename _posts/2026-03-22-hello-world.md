@@ -10,7 +10,6 @@ tags: [hello]
 
 ## Hello World
 In memory of M, who started it all, and in celebration of J, who continues the journey by my side.
-![Avatar](https://raw.githubusercontent.com/pycheng/pycheng.github.io/main/_data/avatar.JPG)
 
 ## Blog Setup & Workflow
 - [Writing a new post](https://chirpy.cotes.page/posts/write-a-new-post/)
